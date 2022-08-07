@@ -1,7 +1,7 @@
 import './App.css';
-import Joke from "../components/Joke";
+import Joke from "./components/Joke";
 
-import jokesData from "../components/jokesData";
+import jokesData from "./data/jokesData";
 
 function App() {
 
