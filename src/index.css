@@ -4,8 +4,8 @@ html, body {
   border: 0;
 }
 
-body {
+body { 
   display: flex;
   justify-content: center;
-  background-color: #01223E;
+  background-color: #01223e;
 }
